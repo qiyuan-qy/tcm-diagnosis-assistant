@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# 环境变量
+.env
+.env.local
+
+# 日志
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 数据
+data/*.csv
+data/*.json
+!data/.gitkeep
+
+# 临时文件
+*.tmp
+*.bak
+deploy.log

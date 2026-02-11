@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": "48e068c8-8965-485e-b64f-dc5b7385f8e6",
+      "name": "伤寒论",
+      "creator": "admin",
+      "created_at": "2026-02-10T08:58:52.463172",
+      "document_count": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "70c87053-71e0-4623-8883-865a0a5c201b",
+      "filename": "20260210_085903_伤寒论（节选）.docx",
+      "original_filename": "伤寒论（节选）.docx",
+      "type": "docx",
+      "size": 22262,
+      "category_id": "48e068c8-8965-485e-b64f-dc5b7385f8e6",
+      "chunks": [
+        {
+          "id": "460db9d3-21ee-4b07-af88-5eb75b7ac874",
+          "content": "头痛\n身体痛",
+          "index": 0
+        }
+      ],
+      "chunk_count": 1,
+      "status": "enabled",
+      "creator": "admin",
+      "created_at": "2026-02-10T08:59:03.780633",
+      "updated_at": "2026-02-10T09:03:29.786729"
+    }
+  ]
+}
